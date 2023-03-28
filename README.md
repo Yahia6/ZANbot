@@ -1,8 +1,8 @@
 
 
-<h1 align="center">ZANbot 𝗩4ꫂ<br></h1>
+<h1 align="center">ZANbot<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/c94936e8b2773b7809b8a.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
